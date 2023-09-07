@@ -3,7 +3,7 @@
 
 implementing genanki lib to automate tons of flash card generations.
 
-im using somebodyelse's code in this repo.
+im using some of somebodyelse's code in this repo.
 
 ### Run It
 
