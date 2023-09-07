@@ -1,0 +1,720 @@
+办公室 (Bàngōngshì) - Office - Office
+管理人员 (Guǎnlǐ rényuán) - Management Staff - Management
+主管 (Zhǔguǎn) - Supervisor - Management
+工头 (Gōngtóu) - Foreman - Management
+工人 (Gōngrén) - Worker - Production
+控制室 (Kòngzhìshì) - Control Room - Production
+工厂规定 (Gōngchǎng guīdìng) - Factory Regulations - Management
+标准操作程序 (Biāozhǔn cāozuò chéngxù) - Standard Operating Procedure - Management
+操作手册 (Cāozuò shǒucè) - Operation Manual - Management
+安全规程 (Ānquán guīchéng) - Safety Regulations - Safety
+工作流程 (Gōngzuò liúchéng) - Workflow - Workflow
+班次表 (Bāncì biǎo) - Shift Schedule - Production
+班组 (Bānzǔ) - Work Team - Production
+值班 (Zhíbān) - On Duty - Production
+计划生产 (Jìhuà shēngchǎn) - Production Planning - Production
+生产指令 (Shēngchǎn zhǐlìng) - Production Order - Production
+质量控制 (Zhìliàng kòngzhì) - Quality Control - Quality
+审核 (Shěnhé) - Audit - Management
+报告 (Bàogào) - Report - Management
+会议 (Huìyì) - Meeting - Management
+考勤 (Kǎoqín) - Attendance - Management
+人力资源 (Rénlì zīyuán) - Human Resources - Resources
+培训 (Péixùn) - Training - Training
+职务描述 (Zhíwù miáoshù) - Job Description - Management
+岗位责任 (Gǎngwèi zérèn) - Job Responsibilities - Management
+绩效评估 (Jīxiào pínggū) - Performance Evaluation - Management
+薪资福利 (Xīnzī fúlì) - Salary and Benefits - Resources
+集体合同 (Jítǐ hétong) - Collective Agreement - Resources
+员工手册 (Yuángōng shǒucè) - Employee Handbook - Management
+生产效率 (Shēngchǎn xiàolǜ) - Production Efficiency - Production
+进度控制 (Jìndù kòngzhì) - Progress Control - Production
+原材料采购 (Yuáncáiliào cǎigòu) - Raw Material Procurement - Resources
+供应链管理 (Gōngyìng liàn guǎnlǐ) - Supply Chain Management - Logistics
+仓库管理 (Cāngkù guǎnlǐ) - Warehouse Management - Logistics
+设备维护 (Shèbèi wéihù) - Equipment Maintenance - Maintenance
+生产计划 (Shēngchǎn jìhuà) - Production Schedule - Production
+资源分配 (Zīyuán fēnpèi) - Resource Allocation - Resources
+生产线 (Shēngchǎn xiàn) - Production Line - Production
+工艺流程 (Gōngyì liúchéng) - Process Flow - Production
+品质检验 (Pǐnzhì jiǎnyàn) - Quality Inspection - Quality
+供应商 (Gōngyìngshāng) - Supplier - Logistics
+物流管理 (Wùliú guǎnlǐ) - Logistics Management - Logistics
+报废处理 (Bàofèi chǔlǐ) - Scrap Disposal - Maintenance
+产品包装 (Chǎnpǐn bāozhuāng) - Product Packaging - Production
+调试 (Tiáoshì) - Debugging - Production
+管理层 (Guǎnlǐ céng) - Management Level - Management
+班车 (Bānchē) - Shuttle Bus - Logistics
+安全意识 (Ānquán yìshí) - Safety Awareness - Safety
+用电安全 (Yòng diàn ānquán) - Electrical Safety - Safety
+急救措施 (Jíjiù cuòshī) - First Aid Measures - Safety
+应急预案 (Yìngjí yù'àn) - Emergency Plan - Safety
+环保政策 (Huánbǎo zhèngcè) - Environmental Policy - Safety
+生产效益 (Shēngchǎn xiàoyì) - Production Efficiency - Production
+品质管理 (Pǐnzhì guǎnlǐ) - Quality Management - Quality
+操作规范 (Cāozuò guīfàn) - Operating Standards - Production
+安全培训 (Ānquán péixùn) - Safety Training - Training
+管理培训 (Guǎnlǐ péixùn) - Management Training - Training
+班组长 (Bānzǔ zhǎng) - Team Leader - Management
+周报 (Zhōubào) - Weekly Report - Management
+监控系统 (Jiānkòng xìtǒng) - Monitoring System - Production
+自动化 (Zìdònghuà) - Automation - Production
+数据分析 (Shùjù fēnxī) - Data Analysis - Management
+仓库员 (Cāngkù yuán) - Warehouse Clerk - Logistics
+物料管理 (Wùliào guǎnlǐ) - Material Management - Logistics
+库存控制 (Kùcún kòngzhì) - Inventory Control - Logistics
+耗材采购 (Hàocái cǎigòu) - Consumables Procurement - Resources
+工装 (Gōngzhuāng) - Workwear - Resources
+生产效益评估 (Shēngchǎn xiàoyì pínggū) - Production Efficiency Evaluation - Production
+
+原材料储存 (Yuáncáiliào chǔcún) - Raw Material Storage - Resources
+供应链协调 (Gōngyìng liàn xiétiáo) - Supply Chain Coordination - Logistics
+物流运输 (Wùliú yùnshū) - Logistics and Transportation - Logistics
+设备故障 (Shèbèi gùzhàng) - Equipment Failure - Maintenance
+生产成本 (Shēngchǎn chéngběn) - Production Cost - Production
+产品质量 (Chǎnpǐn zhìliàng) - Product Quality - Quality
+质量管理体系 (Zhìliàng guǎnlǐ tǐxì) - Quality Management System - Quality
+环境保护 (Huánjìng bǎohù) - Environmental Protection - Safety
+生产监控 (Shēngchǎn jiānkòng) - Production Monitoring - Production
+产品检验 (Chǎnpǐn jiǎnyàn) - Product Inspection - Quality
+装配线 (Zhuāngpèi xiàn) - Assembly Line - Production
+装卸工 (Zhuāngxiè gōng) - Loader/Unloader - Production
+产品安全 (Chǎnpǐn ānquán) - Product Safety - Safety
+健康与安全 (Jiànkāng yǔ ānquán) - Health and Safety - Safety
+设备更新 (Shèbèi gēngxīn) - Equipment Upgradation - Maintenance
+采购计划 (Cǎigòu jìhuà) - Procurement Plan - Resources
+建议反馈 (Jiànyì fǎnkuì) - Feedback and Suggestions - Management
+工时记录 (Gōngshí jìlù) - Timekeeping - Management
+生产效能 (Shēngchǎn xiàonéng) - Production Efficiency - Production
+产品标准 (Chǎnpǐn biāozhǔn) - Product Standards - Quality
+质量问题 (Zhìliàng wèntí) - Quality Issues - Quality
+库存管理 (Kùcún guǎnlǐ) - Inventory Management - Logistics
+产品分类 (Chǎnpǐn fēnlèi) - Product Categorization - Production
+设备调整 (Shèbèi tiáozhěng) - Equipment Adjustment - Maintenance
+供应商评估 (Gōngyìngshāng pínggū) - Supplier Evaluation - Management
+运输成本 (Yùnshū chéngběn) - Transportation Cost - Logistics
+工时安排 (Gōngshí ānpái) - Work Schedule - Management
+机械维修 (Jīxiè wéixiū) - Mechanical Maintenance - Maintenance
+工作指导书 (Gōngzuò zhǐdǎo shū) - Work Instructions - Management
+设备操作 (Shèbèi cāozuò) - Equipment Operation - Production
+
+
+产品检验报告 (Chǎnpǐn jiǎnyàn bàogào) - Product Inspection Report - Quality
+零部件 (Líng bùjiàn) - Components - Production
+设备安装 (Shèbèi ānzhuāng) - Equipment Installation - Production
+运输协调 (Yùnshū xiétiáo) - Transportation Coordination - Logistics
+售后服务 (Shòuhòu fúwù) - After-sales Service - Management
+工艺改进 (Gōngyì gǎijìn) - Process Improvement - Production
+质量审查 (Zhìliàng shěnchá) - Quality Review - Quality
+安全培训 (Ānquán péixùn) - Safety Training - Safety
+生产调度 (Shēngchǎn diàodù) - Production Scheduling - Production
+检测设备 (Jiǎncè shèbèi) - Testing Equipment - Production
+品质标准 (Pǐnzhì biāozhǔn) - Quality Standards - Quality
+进料检验 (Jìnliào jiǎnyàn) - Incoming Inspection - Quality
+工作流优化 (Gōngzuò liú yōuhuà) - Workflow Optimization - Workflow
+质量反馈 (Zhìliàng fǎnkuì) - Quality Feedback - Quality
+物料调拨 (Wùliào diàobō) - Material Allocation - Resources
+供应商协议 (Gōngyìngshāng xiéyì) - Supplier Agreement - Management
+装配工 (Zhuāngpèi gōng) - Assembler - Production
+产品可靠性 (Chǎnpǐn kěkàoxìng) - Product Reliability - Quality
+安全风险 (Ānquán fēngxiǎn) - Safety Risks - Safety
+生产状况 (Shēngchǎn zhuàngkuàng) - Production Status - Production
+设备校准 (Shèbèi jiàozhǔn) - Equipment Calibration - Maintenance
+品质改善 (Pǐnzhì gǎishàn) - Quality Improvement - Quality
+工时效率 (Gōngshí xiàolǜ) - Labor Efficiency - Management
+部件装配 (Bùjiàn zhuāngpèi) - Component Assembly - Production
+安全督查 (Ānquán dūchá) - Safety Inspection - Safety
+原材料库存 (Yuáncáiliào kùcún) - Raw Material Inventory - Resources
+车间 (Chējiān) - Workshop - Production
+采购 (Cǎigòu) - Procurement - Resources
+物料采购 (Wùliào cǎigòu) - Material Procurement - Resources
+供应商管理 (Gōngyìngshāng guǎnlǐ) - Supplier Management - Management
+成本控制 (Chéngběn kòngzhì) - Cost Control - Management
+
+资源管理 (Zīyuán guǎnlǐ) - Resource Management - Office
+资产管理 (Zīchǎn guǎnlǐ) - Asset Management - Office
+生产效益分析 (Shēngchǎn xiàoyì fēnxī) - Production Efficiency Analysis - Production
+生产数据 (Shēngchǎn shùjù) - Production Data - Production
+质量标准 (Zhìliàng biāozhǔn) - Quality Standards - Quality
+质量改进 (Zhìliàng gǎijìn) - Quality Improvement - Quality
+不良品处理 (Bùliáng pǐn chǔlǐ) - Defective Product Handling - Quality
+机械设备 (Jīxiè shèbèi) - Machinery and Equipment - Production
+设备操作手册 (Shèbèi cāozuò shǒucè) - Equipment Operation Manual - Production
+设备维修记录 (Shèbèi wéixiū jìlù) - Equipment Maintenance Records - Maintenance
+设备效率 (Shèbèi xiàolǜ) - Equipment Efficiency - Production
+生产安全 (Shēngchǎn ānquán) - Production Safety - Safety
+职业健康 (Zhíyè jiànkāng) - Occupational Health - Safety
+劳动保护 (Láodòng bǎohù) - Labor Protection - Safety
+劳动法规 (Láodòng fǎguī) - Labor Laws and Regulations - Safety
+员工福利 (Yuángōng fúlì) - Employee Benefits - Management
+员工关怀 (Yuángōng guānhuái) - Employee Care - Management
+员工培训 (Yuángōng péixùn) - Employee Training - Training
+员工激励 (Yuángōng jīlì) - Employee Incentives - Management
+员工满意度 (Yuángōng mǎnyìdù) - Employee Satisfaction - Management
+员工关系 (Yuángōng guānxì) - Employee Relations - Management
+绩效奖金 (Jīxiào jiǎngjīn) - Performance Bonus - Management
+绩效考核 (Jīxiào kǎohé) - Performance Assessment - Management
+绩效管理 (Jīxiào guǎnlǐ) - Performance Management - Management
+人员 (rényuán) - personnel - Management
+员工 (yuángōng) - employee - Management
+领导 (lǐngdǎo) - leader - Management
+老板 (lǎobǎn) - boss - Management
+同事 (tóngshì) - colleague - Management
+上级 (shàngjí) - superior - Management
+下属 (xiàshǔ) - subordinate - Management
+请 (qǐng) - please - Office
+谢谢 (xièxie) - thank you - Office
+对不起 (duìbuqǐ) - sorry - Office
+问 (wèn) - ask - Office
+答 (dá) - answer - Office
+咨询 (zīxún) - consult - Office
+请教 (qǐngjiào) - seek advice - Office
+批准 (pīzhǔn) - approve - Office
+审批 (shěnpī) - review and approve - Office
+同意 (tóngyì) - agree - Office
+不同意 (bùtóngyì) - disagree - Office
+接受 (jiēshòu) - accept - Office
+拒绝 (jùjué) - refuse - Office
+指示 (zhǐshì) - instruct - Office
+分配 (fēnpèi) - allocate - Office
+委派 (wěipài) - assign - Office
+安排 (ānpái) - arrange - Office
+协调 (xiétiáo) - coordinate - Office
+协助 (xiézhù) - assist - Office
+协商 (xiéshāng) - negotiate - Office
+合作 (hézuò) - cooperate - Office
+沟通 (gōutōng) - communicate - Office
+会议 (huìyì) - meeting - Office
+讨论 (tǎolùn) - discuss - Office
+决策 (juécè) - make a decision - Office
+实施 (shíshī) - implement - Office
+完成 (wánchéng) - accomplish - Office
+提交 (tíjiāo) - submit - Office
+报告 (bàogào) - report - Office
+建议 (jiànyì) - suggest - Office
+预算 (yùsuàn) - budget - Office
+
+生产 (shēng chǎn) - production - Production
+质量 (zhì liàng) - quality - Quality
+订单 (dìng dān) - order - Office
+询价 (xún jià) - inquiry - Office
+报价 (bào jià) - quotation - Office
+发货 (fā huò) - shipment - Logistics
+付款 (fù kuǎn) - payment - Office
+客户 (kè hù) - customer - Office
+供应商 (gōng yìng shāng) - supplier - Office
+合作 (hé zuò) - cooperation - Office
+合同 (hé tóng) - contract - Office
+谈判 (tán pàn) - negotiation - Office
+协议 (xié yì) - agreement - Office
+签约 (qiān yuē) - signing a contract - Office
+询问 (xún wèn) - inquiry - Office
+请求 (qǐng qiú) - request - Office
+许可 (xǔ kě) - permission - Office
+批准 (pī zhǔn) - approval - Office
+授权 (shòu quán) - authorization - Office
+建议 (jiàn yì) - suggestion - Office
+建议 (jiàn yì) - suggestion - Office
+意见 (yì jiàn) - opinion - Office
+报告 (bào gào) - report - Office
+会议 (huì yì) - meeting - Office
+演示 (yǎn shì) - presentation - Office
+培训 (péi xùn) - training - Training
+讨论 (tǎo lùn) - discussion - Office
+沟通 (gōu tōng) - communication - Office
+交流 (jiāo liú) - exchange - Office
+协调 (xié tiáo) - coordination - Office
+分配 (fēn pèi) - allocation - Office
+管理 (guǎn lǐ) - management - Management
+领导 (lǐng dǎo) - leadership - Management
+下属 (xià shǔ) - subordinate - Management
+员工满意度 (yuán gōng mǎn yì dù) - employee satisfaction - Management
+绩效考核 (jī xiào kǎo hé) - performance evaluation - Management
+奖惩制度 (jiǎng chéng zhì dù) - rewards and punishments system - Management
+加班 (jiā bān) - overtime work - Office
+请假 (qǐng jià) - leave of absence - Office
+调休 (tiáo xiū) - time off - Office
+培训 (péi xùn) - training - Training
+岗位职责 (gǎng wèi zhí zé) - job responsibilities - Office
+工作流程 (gōng zuò liú chéng) - work process - Workflow
+作业指导书 (zuò yè zhǐ dǎo shū) - work instruction manual - Workflow
+
+目标 (mùbiāo) - goal - Office
+任务 (rènwù) - task - Office
+进度 (jìndù) - progress - Office
+完工 (wángōng) - completion - Office
+培训 (péixùn) - training - Training
+奖励 (jiǎnglì) - reward - Management
+惩罚 (chéngfá) - punishment - Management
+职位 (zhíwèi) - position - Management
+部门 (bùmén) - department - Management
+经理 (jīnglǐ) - manager - Management
+员工 (yuángōng) - employee - Management
+职员 (zhíyuán) - staff - Management
+副总经理 (fùzǒngjīnglǐ) - deputy general manager - Management
+人力资源 (rénlìzīyuán) - human resources - Management
+前台 (qiántái) - receptionist - Management
+采购 (cǎigòu) - procurement - Logistics
+销售 (xiāoshòu) - sales - Logistics
+
+生产 (shēng chǎn) - production - Production
+质量 (zhì liàng) - quality - Quality
+订单 (dìng dān) - order - Office
+询价 (xún jià) - inquiry - Office
+报价 (bào jià) - quotation - Office
+发货 (fā huò) - shipment - Logistics
+付款 (fù kuǎn) - payment - Office
+客户 (kè hù) - customer - Office
+供应商 (gōng yìng shāng) - supplier - Office
+合作 (hé zuò) - cooperation - Office
+合同 (hé tóng) - contract - Office
+谈判 (tán pàn) - negotiation - Office
+协议 (xié yì) - agreement - Office
+签约 (qiān yuē) - signing a contract - Office
+询问 (xún wèn) - inquiry - Office
+请求 (qǐng qiú) - request - Office
+许可 (xǔ kě) - permission - Office
+批准 (pī zhǔn) - approval - Office
+授权 (shòu quán) - authorization - Office
+建议 (jiàn yì) - suggestion - Office
+建议 (jiàn yì) - suggestion - Office
+意见 (yì jiàn) - opinion - Office
+报告 (bào gào) - report - Office
+会议 (huì yì) - meeting - Office
+演示 (yǎn shì) - presentation - Office
+培训 (péi xùn) - training - Training
+讨论 (tǎo lùn) - discussion - Office
+沟通 (gōu tōng) - communication - Office
+交流 (jiāo liú) - exchange - Office
+协调 (xié tiáo) - coordination - Office
+分配 (fēn pèi) - allocation - Office
+管理 (guǎn lǐ) - management - Management
+领导 (lǐng dǎo) - leadership - Management
+下属 (xià shǔ) - subordinate - Management
+员工满意度 (yuán gōng mǎn yì dù) - employee satisfaction - Management
+绩效考核 (jī xiào kǎo hé) - performance evaluation - Management
+奖惩制度 (jiǎng chéng zhì dù) - rewards and punishments system - Management
+加班 (jiā bān) - overtime work - Office
+请假 (qǐng jià) - leave of absence - Office
+调休 (tiáo xiū) - time off - Office
+培训 (péi xùn) - training - Training
+岗位职责 (gǎng wèi zhí zé) - job responsibilities - Office
+工作流程 (gōng zuò liú chéng) - work process - Workflow
+加工 (jiāgōng) - processing - Production
+作业指导书 (zuò yè zhǐ dǎo shū) - work instruction manual - Office
+安全操作规程 (ān quán cāo zuò guī chéng) - safety operating procedures - Safety
+事故报告 (shì gù bào gào) - accident report - Safety
+维修 (wéi xiū) - maintenance - Maintenance
+保养 (bǎo yǎng) - servicing - Maintenance
+故障排除 (gù zhàng pái chú) - troubleshooting - Maintenance
+更换零件 (gēng huàn líng jiàn) - parts replacement - Maintenance
+检修 (jiǎn xiū) - overhaul - Maintenance
+报修 (bào xiū) - repair request - Maintenance
+急救 (jí jiù) - first aid - Safety
+紧急情况 (jǐn jí qíng kuàng) - emergency situation - Safety
+协助 (xié zhù) - assistance - Management
+指导 (zhǐ dǎo) - guidance - Management
+解决问题 (jiě jué wèn tí) - problem-solving - Management
+管理人员 (guǎn lǐ rén yuán) - management staff - Management
+主管 (zhǔ guǎn) - supervisor - Management
+领班 (lǐng bān) - team leader - Management
+团队合作 (tuán duì hé zuò) - teamwork - Management
+培训计划 (péi xùn jì huà) - training program - Training
+奖励制度 (jiǎng lì zhì dù) - reward system - Management
+绩效奖金 (jī xiào jiǎng jīn) - performance bonus - Management
+鼓励 (gǔ lì) - encouragement - Management
+激励 (jī lì) - motivation - Management
+面试 (miàn shì) - job interview - Management
+招聘 (zhāo pìn) - recruitment - Management
+离职 (lí zhí) - resignation - Management
+辞退 (cí tuì) - dismissal - Management
+人才 (rén cái) - talent - Management
+培养 (péi yǎng) - nurture - Management
+晋升 (jìn shēng) - promotion - Management
+职业发展 (zhí yè fā zhǎn) - career development - Management
+员工福利 (yuán gōng fú lì) - employee benefits - Resources
+加薪 (jiā xīn) - salary raise - Resources
+薪资调整 (xīn zī tiáo zhěng) - salary adjustment - Resources
+社会保险 (shè huì bǎo xiǎn) - social insurance - Resources
+健康保险 (jiàn kāng bǎo xiǎn) - health insurance - Resources
+工资单 (gōng zī dān) - payslip - Resources
+考勤 (kǎo qín) - attendance - Resources
+请示 (qǐng shì) - seek approval - Management
+咨询 (zī xún) - consultation - Management
+投诉 (tóu sù) - complaint - Management
+反馈 (fǎn kuì) - feedback - Management
+管理制度 (guǎn lǐ zhì dù) - management system - Management
+领导批示 (lǐng dǎo pī shì) - leadership instructions - Management
+组织架构 (zǔ zhī jià gòu) - organizational structure - Management
+目标设定 (mù biāo shè dìng) - goal setting - Management
+进度控制 (jìn dù kòng zhì) - progress control - Management
+会议纪要 (huì yì jì yào) - meeting minutes - Management
+邮件 (yóu jiàn) - email - Management
+文件 (wén jiàn) - document - Management
+归档 (guī dàng) - filing - Management
+职场规范 (zhí chǎng guī fàn) - workplace etiquette - Management
+礼仪 (lǐ yí) - etiquette - Management
+问候 (wèn hòu) - greetings - Management
+合作伙伴 (hé zuò huǒ bàn) - business partner - Management
+业务流程 (yè wù liú chéng) - business process - Management
+竞争力 (jìng zhēng lì) - competitiveness - Management
+产品开发 (chǎn pǐn kāi fā) - product development - Production
+市场调研 (shì chǎng diào yán) - market research - Production
+销售目标 (xiāo shòu mù biāo) - sales target - Production
+客户满意度 (kè hù mǎn yì dù) - customer satisfaction - Production
+市场份额 (shì chǎng fèn é) - market share - Production
+营销策略 (yíng xiāo cè lüè) - marketing strategy - Production
+企业文化 (qǐ yè wén huà) - corporate culture - Production
+创新 (chuàng xīn) - innovation - Production
+项目管理 (xiàng mù guǎn lǐ) - project management - Management
+投资 (tóu zī) - investment - Resources
+成本控制 (chéng běn kòng zhì) - cost control - Resources
+财务报表 (cái wù bào biǎo) - financial statements - Resources
+利润 (lì rùn) - profit - Resources
+经济效益 (jīng jì xiào yì) - economic benefits - Resources
+审批流程 (shěnpī liúchéng) - approval process - Management
+请示上级 (qǐngshì shàngjí) - seek approval from superiors - Management
+申请 (shēnqǐng) - apply - Management
+执行 (zhíxíng) - execute - Management
+延期 (yánqī) - delay - Management
+加急 (jiājí) - expedite - Management
+建议书 (jiànyì shū) - recommendation - Management
+报销 (bàoxiāo) - reimbursement - Management
+预算控制 (yùsuàn kòngzhì) - budget control - Management
+绩效评估 (jīxiào pínggū) - performance evaluation - Management
+工作安排 (gōngzuò ānpái) - work arrangement - Management
+资源分配 (zīyuán fēnpèi) - resource allocation - Management
+职责 (zhízé) - responsibility - Management
+培训计划 (péixùn jìhuà) - training plan - Training
+人才培养 (réncái péiyǎng) - talent development - Training
+面试 (miànshì) - job interview - Training
+离职手续 (lízhí shǒuxù) - resignation procedures - Management
+调薪 (diàoxīn) - salary adjustment - Management
+加班费 (jiābān fèi) - overtime pay - Management
+安全意识 (ānquán yìshi) - safety awareness - Safety
+危险警示 (wēixiǎn jǐngshì) - danger warning - Safety
+定期保养 (dìngqī bǎoyǎng) - regular maintenance - Maintenance
+故障诊断 (gùzhàng zhěnduàn) - fault diagnosis - Maintenance
+优化 (yōuhuà) - optimization - Production
+急修 (jíxiū) - emergency repair - Maintenance
+申报 (shēnbào) - declare - Management
+优先级 (yōuxiān jí) - priority - Management
+完成日期 (wánchéng rìqī) - deadline - Management
+进度报告 (jìndù bàogào) - progress report - Management
+经验分享 (jīngyàn fēnxiǎng) - experience sharing - Management
+协作能力 (xiézuò nénglì) - teamwork skills - Management
+领导能力 (lǐngdǎo nénglì) - leadership skills - Management
+有效沟通 (yǒuxiào gōutōng) - effective communication - Management
+创意提案 (chuàngyì tí'àn) - creative proposal - Management
+项目执行 (xiàngmù zhíxíng) - project execution - Management
+指导书 (zhǐdǎo shū) - guidebook - Office
+应聘 (yìngpìn) - apply for a job - Office
+岗位 (gǎngwèi) - position - Office
+接待 (jiēdài) - reception - Office
+仓库 (cāngkù) - warehouse - Logistics
+质检 (zhìjiǎn) - quality control - Quality
+供应链 (gōngyìngliàn) - supply chain - Logistics
+生产计划 (shēngchǎn jìhuà) - production plan - Production
+设备 (shèbèi) - equipment - Production
+工艺 (gōngyì) - technology - Production
+
+加工 (jiāgōng) - processing - Production
+
+管理者 (guǎnlǐzhě) - manager - Management
+
+员工关系 (yuángōng guānxì) - employee relations - Management
+
+培训需求 (péixùn xūqiú) - training needs - Training
+
+绩效评估 (jīxiào pínggū) - performance evaluation - Management
+
+奖励机制 (jiǎnglì jīzhì) - reward system - Management
+
+薪资福利 (xīnzī fúlì) - salary and benefits - Management
+
+工作满意度 (gōngzuò mǎnyìdù) - job satisfaction - Management
+
+请假申请 (qǐngjià shēnqǐng) - leave application - Management
+
+员工手册 (yuángōng shǒucè) - employee handbook - Management
+
+协商 (xiéshāng) - negotiate - Management
+
+承诺 (chéngnuò) - promise - Management
+
+执行 (zhíxíng) - execute - Management
+
+计划 (jìhuà) - plan - Management
+
+监督 (jiāndū) - supervise - Management
+
+评估 (pínggū) - evaluate - Management
+
+改进 (gǎijìn) - improve - Management
+
+协调 (xiétiáo) - coordinate - Management
+
+配合 (pèihé) - cooperate - Management
+
+沟通 (gōutōng) - communicate - Management
+
+解决 (jiějué) - solve - Management
+
+协助 (xiézhù) - assist - Management
+
+咨询 (zīxún) - consult - Management
+
+委派 (wěipài) - delegate - Management
+
+指导 (zhǐdǎo) - guide - Management
+
+培训 (péixùn) - train - Training
+
+学习 (xuéxí) - learn - Training
+
+讨论 (tǎolùn) - discuss - Management
+
+提醒 (tíxǐng) - remind - Management
+
+安全 (ānquán) - safety - Safety
+
+质量 (zhìliàng) - quality - Quality
+
+效率 (xiàolǜ) - efficiency - Management
+
+工作 (gōngzuò) - work - Management
+
+生产 (shēngchǎn) - production - Production
+
+销售 (xiāoshòu) - sales - Management
+
+管理 (guǎnlǐ) - management - Management
+
+监控 (jiānkòng) - monitor - Management
+
+设备 (shèbèi) - equipment - Resources
+
+维护 (wéihù) - maintain - Maintenance
+
+故障 (gùzhàng) - malfunction - Maintenance
+
+修理 (xiūlǐ) - repair - Maintenance
+
+安排 (ānpái) - arrange - Management
+
+排程 (páichéng) - schedule - Management
+
+生产线 (shēngchǎn xiàn) - production line - Production
+产品 (chǎnpǐn) - product - Production
+原材料 (yuáncáiliào) - raw materials - Production
+库存 (kùcún) - inventory - Logistics
+仓库 (cāngkù) - warehouse - Logistics
+物流 (wùliú) - logistics - Logistics
+包装 (bāozhuāng) - packaging - Production
+发货 (fāhuò) - ship - Logistics
+验收 (yànshōu) - inspect - Quality
+退货 (tuìhuò) - return goods - Logistics
+供应链 (gōngyìngliàn) - supply chain - Logistics
+财务 (cáiwù) - finance - Office
+成本 (chéngběn) - cost - Office
+预算 (yùsuàn) - budget - Office
+利润 (lìrùn) - profit - Office
+投资 (tóuzī) - investment - Office
+市场 (shìchǎng) - market - Office
+竞争 (jìngzhēng) - competition - Office
+营销 (yíngxiāo) - marketing - Office
+合同 (hétong) - contract - Management
+法律 (fǎlǜ) - law - Management
+知识产权 (zhīshichǎnquán) - intellectual property - Management
+品牌 (pǐnpái) - brand - Management
+员工福利 (yuángōng fúlì) - employee benefits - Management
+通知 (tōngzhī) - notice - Management
+请求 (qǐngqiú) - request - Management
+确认 (quèrèn) - confirm - Management
+执行 (zhíxíng) - execute - Management
+反馈 (fǎnkuì) - feedback - Management
+解决 (jiějué) - solve - Management
+建议 (jiànyì) - suggestion - Management
+改进 (gǎijìn) - improve - Management
+监督 (jiāndū) - supervise - Management
+质量控制 (zhìliàng kòngzhì) - quality control - Quality
+报警 (bàojǐng) - alarm - Safety
+员工福利 (yuángōng fúlì) - employee benefits - Management
+生产计划 (shēngchǎn jìhuà) - production plan - Production
+供应链 (gōngyìng liàn) - supply chain - Logistics
+物流 (wùliú) - logistics - Logistics
+交付 (jiāofù) - deliver - Logistics
+售后服务 (shòuhòu fúwù) - after-sales service - Logistics
+咨询顾问 (zīxún gùwèn) - consultant - Management
+员工评估 (yuángōng pínggū) - employee evaluation - Management
+绩效考核 (jīxiào kǎohé) - performance assessment - Management
+通知 (tōngzhī) - notification - Management
+授权 (shòuquán) - authorize - Management
+调度 (diàodù) - dispatch - Management
+监督 (jiāndū) - supervise - Management
+督促 (dūcù) - urge - Management
+部署 (bùshǔ) - deploy - Management
+效率 (xiàolǜ) - efficiency - Management
+委托 (wěituō) - entrust - Management
+安全 (ānquán) - safety - Safety
+操作 (cāozuò) - operation - Production
+标准 (biāozhǔn) - standard - Quality
+过程 (guòchéng) - process - Production
+任务分配 (rènwù fēnpèi) - task assignment - Workflow
+采购单 (cǎigòu dān) - purchase order - Logistics
+销售额 (xiāoshòu é) - sales volume - Production
+设备 (shèbèi) - equipment - Maintenance
+维修记录 (wéixiū jìlù) - maintenance record - Maintenance
+保养计划 (bǎoyǎng jìhuà) - maintenance plan - Maintenance
+故障报告 (gùzhàng bàogào) - fault report - Maintenance
+急修措施 (jíxiū cuòshī) - emergency repair measures - Maintenance
+操作指南 (cāozuò zhǐnán) - operating instructions - Maintenance
+检查 (jiǎnchá) - inspect - Quality
+评估 (pínggū) - assess - Quality
+培训需求 (péixùn xūqiú) - training needs - Training
+岗位要求 (gǎngwèi yāoqiú) - job requirements - Management
+绩效考核 (jīxiào kǎohé) - performance evaluation - Management
+激励措施 (jīlì cuòshī) - incentive measures - Management
+人才招聘 (réncái zhāopìn) - talent recruitment - Management
+员工福利 (yuángōng fúlì) - employee benefits - Management
+绩效奖励 (jīxiào jiǎnglì) - performance rewards - Management
+培训计划 (péixùn jìhuà) - training program - Training
+离职手续 (lízhí shǒuxù) - resignation procedures - Management
+紧固 (jǐngù) - fasten - Maintenance
+松开 (sōng kāi) - loosen - Maintenance
+修理 (xiūlǐ) - fix - Maintenance
+抬高 (tái gāo) - raise up - Maintenance
+降低 (jiàngdī) - decrease - Maintenance
+添加 (tiānjiā) - add - Maintenance
+最大化 (zuìdàhuà) - maximize - Maintenance
+关闭阀门 (guānbì fámén) - turn off the valve - Maintenance
+打开流量 (dǎkāi liúliàng) - open up the flow - Maintenance
+检查温度 (jiǎnchá wēndù) - check the temperature - Maintenance
+测量速度 (cèliáng sùdù) - measure the speed - Maintenance
+排空所有液体 (páikōng suǒyǒu yètǐ) - drain all the liquid - Maintenance
+
+维护 (wéi hù) - maintain - Maintenance
+替换 (tì huàn) - replace - Maintenance
+升降 (shēng jiàng) - raise and lower - Maintenance
+升级 (shēng jí) - upgrade - Maintenance
+增量 (zēng liàng) - increment - Maintenance
+减量 (jiǎn liàng) - decrement - Maintenance
+安装 (ān zhuāng) - install - Maintenance
+操作 (cāo zuò) - operate - Maintenance
+调试 (tiáo shì) - debug - Maintenance
+校准 (jiào zhǔn) - calibrate - Maintenance
+清洁 (qīng jié) - clean - Maintenance
+检修 (jiǎn xiū) - overhaul - Maintenance
+检测 (jiǎn cè) - detect - Maintenance
+确认 (què rèn) - confirm - Maintenance
+故障排除 (gù zhàng pái chú) - troubleshoot - Maintenance
+稳定 (wěn dìng) - stabilize - Maintenance
+理顺 (lǐ shùn) - align - Maintenance
+统计 (tǒng jì) - statistics - Maintenance
+控制 (kòng zhì) - control - Maintenance
+预测 (yù cè) - predict - Maintenance
+调整 (tiáo zhěng) - adjust - Maintenance
+标定 (biāo dìng) - calibrate - Maintenance
+运行 (yùn xíng) - run - Maintenance
+优化 (yōu huà) - optimize - Maintenance
+检验 (jiǎn yàn) - inspect - Maintenance
+备件更换 (bèi jiàn gēng huàn) - spare part replacement - Maintenance
+紧急维修 (jǐn jí wéi xiū) - emergency repair - Maintenance
+稽查 (jī chá) - audit - Maintenance
+调节 (tiáo jié) - regulate - Maintenance
+数据记录 (shù jù jì lù) - data logging - Maintenance
+损坏修复 (sǔn huài xiū fù) - damage repair - Maintenance
+停机 (tíng jī) - shutdown - Maintenance
+点检 (diǎn jiǎn) - spot check - Maintenance
+样本分析 (yàng běn fēn xī) - sample analysis - Maintenance
+配件更换 (pèi jiàn gēng huàn) - component replacement - Maintenance
+排放检测 (pái fàng jiǎn cè) - emission testing - Maintenance
+故障诊断 (gù zhàng zhěn duàn) - fault diagnosis - Maintenance
+润滑 (rùn huá) - lubricate - Maintenance
+偏差修正 (piān chā xiū zhèng) - deviation correction - Maintenance
+生产计划 (shēng chǎn jì huà) - production schedule - Production
+校验 (jiào yàn) - verify - Production
+
+核查 (hé chá) - check - Quality
+统计数据 (tǒng jì shù jù) - statistical data - Quality
+备份 (bèi fèn) - backup - Quality
+优化性能 (yōu huà xìng néng) - optimize performance - Quality
+检测故障 (jiǎn cè gù zhàng) - fault detection - Quality
+处理异常 (chǔ lǐ yì cháng) - handle exceptions - Quality
+样品检验 (yàng pǐn jiǎn yàn) - sample inspection - Quality
+定期保养 (dìng qī bǎo yǎng) - regular maintenance - Quality
+节能措施 (jié néng cuò shī) - energy-saving measures - Quality
+操作指导 (cāo zuò zhǐ dǎo) - operating instructions - Quality
+故障报警 (gù zhàng bào jǐng) - fault alarm - Quality
+调度生产 (tiáo dù shēng chǎn) - production scheduling - Production
+设备维修 (shè bèi wéi xiū) - equipment repair - Maintenance
+建议改进 (jiàn yì gǎi jìn) - suggested improvement - Quality
+质量控制 (zhì liàng kòng zhì) - quality control - Quality
+故障预防 (gù zhàng yù fáng) - fault prevention - Quality
+处理故障 (chǔ lǐ gù zhàng) - troubleshoot - Quality
+非计划维护 (fēi jì huà wéi hù) - unplanned maintenance - Maintenance
+效率提升 (xiào lǜ tí shēng) - efficiency enhancement - Quality
+磁选机 (cí xuǎn jī) - Magnetic Separator - Production
+起重机 (qǐzhòngjī) - Crane - Resources
+叉车 (chāchē) - Forklift - Resources
+行车 (xíngchē) - Overhead Crane - Resources
+切割焊枪 (qiēgē hànqiāng) - Cutting Torch - Resources
+焊接机器 (hànjiē jīqì) - Welding Machine - Resources
+角磨机 (jiǎomó jī) - Angle Grinder - Resources
+电钻 (diànzuàn) - Power Drill - Resources
+电锯 (diànjū) - Power Saw - Resources
+液压机 (yèyājī) - Hydraulic Press - Resources
+游标卡尺 (yóubiāo kǎqī) - Calipers - Resources
+凿子和锤子 (záozi hé chuízi) - Chisels and Hammers - Resources
+钳子 (qiánzi) - Tongs - Resources
+卷尺 (juǎnchǐ) - Measuring Tape - Resources
+安全设备 (ānquán shèbèi) - Safety Equipment - Safety
+
+砂轮 (shālún) - Grinding Wheel - Resources
+切割片 (qiēgē piàn) - Cutting Disc - Resources
+焊接面罩 (hànjiē miànzhào) - Welding Mask - Safety
+焊条 (hàn tiáo) - Welding Electrode - Resources
+防护手套 (fánghù shǒutào) - Protective Gloves - Safety
+安全帽 (ānquán mào) - Safety Helmet - Safety
+钻头 (zuàn tóu) - Drill Bit - Resources
+砂轮修整器 (shālún xiūzhěng qì) - Grinding Wheel Dresser - Resources
+弯管机 (wān guǎn jī) - Pipe Bender - Resources
+钳子 (qiánzi) - Pliers - Resources
+丝刷 (sī shuā) - Wire Brush - Resources
+扳手 (bānshǒu) - Spanner/Wrench - Resources
+大锤 (dà chuí) - Sledgehammer - Resources
+铆钉枪 (mǎo dīng qiāng) - Rivet Gun - Resources
+砂轮片 (shālún piàn) - Abrasive Disc - Resources
+磨床 (mó chuáng) - Grinding Machine - Resources
+去毛刺工具 (qù máo cì gōngjù) - Deburring Tool - Resources
+砂光机 (shā guāng jī) - Sander - Resources
+倒角机 (dào jiǎo jī) - Beveling Machine - Resources
+磁钻 (cí zuàn) - Magnetic Drill - Resources
+剪板机 (jiǎn bǎn jī) - Shearing Machine - Resources
+冲床 (chòng chuáng) - Punch Press - Resources
+卷板机 (juǎn bǎn jī) - Rolling Machine - Resources
+起重秤 (qǐzhòng chèng) - Crane Scale - Resources
+磨盘 (mó pán) - Grinding Disc - Resources
+吊夹 (diào jiā) - Lifting Clamp - Resources
+点焊机 (diǎn hàn jī) - Spot Welding Machine - Resources
+剪切机 (jiǎn qiē jī) - Cutting Shears - Resources
+液压缸 (yèyā gāng) - Hydraulic Cylinder - Resources
+钢丝绳 (gāngsī shéng) - Wire Rope - Resources
+药芯焊丝 (yào xīn hàn sī) - Flux-Cored Wire - Resources
+螺丝刀 (luó sī dāo) - Screwdriver - Resources
+扳手 (bān shǒu) - Wrench - Resources
+铣床 (xǐ chuáng) - Milling Machine - Resources
+钻床 (zuàn chuáng) - Drilling Machine - Resources
+刨床 (páo chuáng) - Planing Machine - Resources
+车床 (chē chuáng) - Lathe Machine - Resources
+
+磁吸盘 (cí xī pán) - Magnetic Lifter - Resources
+带锯 (dài jù) - Band Saw - Resources
+砂轮平衡器 (shālún pínghéng qì) - Grinding Wheel Balancer - Resources
+焊接头盔 (hànjiē tóukuī) - Welding Helmet - Safety
+
+万能钳 (wànnéng qián) - Vise - Resources
+旋切机 (xuán qiē jī) - Rotary Cutter - Resources
+钢刷 (gāng shuā) - Steel Brush - Resources
+切管机 (qiē guǎn jī) - Pipe Cutter - Resources
+磁选机 (cí xuǎn jī) - Magnetic Separator - Resources

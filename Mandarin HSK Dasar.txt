@@ -1,0 +1,456 @@
+# i want to make flash card . can u help me translate my word list into indonesian? for the output, i want this format 办公室 (Bàngōngshì) - kantor (hanzi (pinyin) - meaning).
+
+
+爱 (ài) - cinta
+爱好 (ài hào) - hobi
+八 (bā) - delapan
+爸爸｜爸 (bàba ｜ bà) - ayah
+吧 (ba) - (partikel seru)
+白 (bái) - putih
+白天 (bái tiān) - siang hari
+百 (bǎi) - seratus
+班 (bān) - kelas
+半 (bàn) - setengah
+半年 (bàn nián) - setengah tahun
+半天 (bàn tiān) - setengah hari
+帮 (bāng) - membantu
+帮忙 (bāng máng) - bantu
+包 (bāo) - bungkus
+包子 (bāo zi) - bola
+杯 (bēi) - cangkir
+杯子 (bēi zi) - cangkir
+北 (běi) - utara
+北边 (běi biān) - sisi utara
+北京 (běi jīng) - Beijing
+本 (běn) - (kata pengukur untuk buku atau volume)
+本子 (běn zi) - buku
+比 (bǐ) - partikel yang digunakan untuk perbandingan
+别（副） (bié) - jangan
+别的 (bié de) - lain
+别人 (bié rén) - orang lain
+病 (bìng) - penyakit
+病人 (bìng rén) - pasien
+不大 (bú dà) - tidak besar
+不对 (bú duì) - salah
+不客气 (bú kè qì) - sama-sama
+不用 (bú yòng) - tidak perlu
+不 (bù) - tidak
+菜 (cài) - hidangan
+茶 (chá) - teh
+差 (chà) - berbeda; buruk; kurang
+常 (cháng) - sering
+常常 (cháng cháng) - sering
+唱 (chàng) - menyanyi
+唱歌 (chàng gē) - menyanyi
+车 (chē) - mobil
+车票 (chē piào) - tiket
+车上 (chē shàng) - di dalam mobil
+车站 (chē zhàn) - stasiun
+吃 (chī) - makan
+吃饭 (chī fàn) - makan
+出 (chū) - keluar
+出来 (chū lái) - datang
+出去 (chū qù) - pergi keluar
+穿 (chuān) - memakai
+床 (chuáng) - tempat tidur
+次 (cì) - kali (kata pengukur untuk frekuensi)
+从 (cóng) - dari
+错 (cuò) - salah
+打 (dǎ) - memukul, mengambil
+打车 (dǎ chē) - naik taksi
+打电话 (dǎ diàn huà) - menelepon
+打开 (dǎ kāi) - menghidupkan
+打球 (dǎ qiú) - bermain bola
+大 (dà) - besar
+大学 (dà xué) - universitas
+大学生 (dà xué shēng) - mahasiswa
+到 (dào) - mencapai
+得到 (dé dào) - mendapatkan
+地 (de) - kata bantu
+的 (de) - (kata bantu)
+等 (děng) - menunggu
+地 (dì) - tanah
+地点 (dìdiǎn) - lokasi
+地方 (dìfang) - tempat
+地上 (dì shàng) - di atas tanah
+地图 (dìtú) - peta
+弟弟 (dì di) - adik laki-laki
+第 (dì) - kata bantu untuk angka ordinal (kedua)
+点 (diǎn) - titik
+电 (diàn) - listrik
+电话 (diàn huà) - telepon
+电脑 (diànnǎo) - komputer
+电视 (diànshì) - televisi
+电视机 (diàn shì jī) - televisi
+电影 (diànyǐng) - film
+电影院 (diàn yǐng yuàn) - bioskop
+东 (dōng) - timur
+东边 (dōng biān) - sisi timur
+东西 (dōngxi) - barang
+动 (dòng) - bergerak
+动作 (dòngzuò) - gerakan
+都 (dōu) - semua
+读 (dú) - membaca
+读书 (dú shū) - membaca; belajar
+对 (duì) - benar
+对不起 (duìbuqǐ) - maaf
+多 (duō) - banyak; lebih
+多少 (duōshao) - berapa banyak; berapa
+饿 (è) - lapar
+儿子 (érzi) - anak laki-laki
+二 (èr) - dua
+饭 (fàn) - nasi; makanan
+饭店 (fàndiàn) - restoran
+房间 (fángjiān) - kamar
+房子 (fáng zi) - rumah; bangunan
+放 (fàng) - melepas; meletakkan
+放假 (fàng jià) - libur; berlibur
+放学 (fàng xué) - pulang sekolah
+飞 (fēi) - terbang
+飞机 (fēijī) - pesawat terbang
+非常 (fēicháng) - sangat
+分 (fēn) - menit; poin; bagian (kata pengukur)
+风 (fēng) - angin
+干 (gān) - kering
+干净 (gānjìng) - bersih
+干 (gàn) - melakukan
+干什么 (gàn shénme) - apa yang dilakukan
+高 (gāo) - tinggi
+高兴 (gāoxìng) - senang
+告诉 (gàosu) - memberitahu
+哥哥｜哥 (gē ge｜gē) - kakak laki-laki
+歌 (gē) - lagu
+个 (gè) - individu; sebuah
+给 (gěi) - memberikan
+跟 (gēn) - dengan
+工人 (gōngrén) - pekerja
+工作 (gōngzuò) - pekerjaan; bekerja
+关 (guān) - menutup; mematikan
+关上 (guān shàng) - menutup; mematikan
+贵 (guì) - berharga; mahal
+国 (guó) - negara; negara bagian
+国家 (guójiā) - negara
+国外 (guó wài) - luar negeri
+过 (guò) - melewati; mengalami
+还 (hái) - juga; masih
+还是 (háishi) - masih
+还有 (hái yǒu) - juga; selain itu; ada lagi
+孩子 (háizi) - anak-anak
+汉语 (hànyǔ) - bahasa Mandarin
+汉字 (hànzì) - aksara Cina; karakter Cina
+好 (hǎo) - baik
+好吃 (hǎochī) - enak
+好看 (hǎo kàn) - bagus dilihat; menarik
+好听 (hǎo tīng) - enak didengar
+好玩儿 (hǎo wánr) - menyenangkan; seru
+号 (hào) - nomor; tanggal
+喝 (hē) - minum
+和 (hé) - dan
+很 (hěn) - sangat
+后 (hòu) - belakang; setelah; kemudian
+后边 (hòu biān) - di belakang
+后天 (hòu tiān) - lusa
+花 (huā) - bunga
+话 (huà) - kata-kata; percakapan
+坏 (huài) - buruk
+还 (huán) - mengembalikan; membayar kembali
+回 (huí) - pulang; kembali
+回答 (huídá) - menjawab
+回到 (huí dào) - kembali ke
+回家 (huí jiā) - pulang ke rumah
+回来 (huí lái) - kembali; pulang
+回去 (huí qù) - pergi kembali
+会 (huì) - bisa; mampu
+火车 (huǒ chē) - kereta api
+机场 (jīchǎng) - bandara
+机票 (jī piào) - tiket pesawat
+鸡蛋 (jīdàn) - telur
+几 (jǐ) - beberapa; beberapa
+记 (jì) - mengingat
+记得 (jìdé) - mengingat
+记住 (jì zhù) - mengingat; simpan dalam pikiran
+家 (jiā) - rumah; keluarga
+家里 (jiā lǐ) - di rumah
+家人 (jiā rén) - anggota keluarga
+间 (jiān) - antara; kata pengukur untuk ruangan
+见 (jiàn) - melihat; bertemu
+见面 (jiànmiàn) - bertemu
+教 (jiāo) - mengajar
+叫 (jiào) - memanggil; dipanggil
+教学楼 (jiào xué lóu) - gedung pengajaran
+姐姐｜姐 (jiě jie｜jiě) - kakak perempuan
+介绍 (jièshào) - memperkenalkan
+今年 (jīn nián) - tahun ini
+今天 (jīntiān) - hari ini
+进 (jìn) - masuk
+进来 (jìn lái) - masuk (ke dalam)
+进去 (jìn qù) - pergi (masuk)
+九 (jiǔ) - sembilan
+就 (jiù) - segera; sekarang juga; kemudian
+觉得 (juéde) - berpikir; merasa
+开 (kāi) - buka
+开车 (kāi chē) - mengemudi; naik mobil
+开会 (kāi huì) - mengadakan rapat
+开玩笑 (kāiwánxiào) - bercanda; main-main
+看 (kàn) - melihat
+看病 (kàn bìng) - pergi ke dokter; berobat
+看到 (kàn dào) - melihat
+看见 (kànjiàn) - melihat
+考 (kǎo) - ujian; menguji
+考试 (kǎoshì) - ujian; ujian sekolah
+渴 (kě) - haus
+课 (kè) - pelajaran
+课本 (kè běn) - buku teks
+课文 (kè wén) - teks pelajaran
+口 (kǒu) - mulut
+块 (kuài) - potongan; keping
+快 (kuài) - cepat
+来 (lái) - datang
+来到 (lái dào) - datang; tiba
+老 (lǎo) - tua; berumur
+老人 (lǎo rén) - orang tua; lanjut usia
+老师 (lǎoshī) - guru
+了 (le) - penanda waktu lampau
+累 (lèi) - lelah
+冷 (lěng) - dingin
+里 (lǐ) - di dalam
+里边 (lǐ biān) - di dalam; di sebelah dalam
+两 (liǎng) - dua
+零｜〇 (líng) - nol
+六 (liù) - enam
+楼 (lóu) - lantai; gedung
+楼上 (lóu shàng) - di atas; lantai atas
+楼下 (lóu xià) - di bawah; lantai bawah
+路 (lù) - jalan
+路口 (lù kǒu) - persimpangan jalan
+路上 (lù shàng) - di jalan
+妈妈｜妈 (mā ma ｜ mā) - ibu; mama
+马路 (mǎ lù) - jalan raya
+马上 (mǎshàng) - segera; langsung
+吗 (ma) - kata bantu tanya
+买 (mǎi) - membeli
+慢 (màn) - lambat
+忙 (máng) - sibuk
+毛 (máo) - satuan pecahan uang di China (kata pengukur)
+没 (méi) - tidak
+没关系 (méiguānxi) - tidak masalah
+没什么 (méi shén me) - tidak apa-apa; tidak masalah
+没事儿 (méi shìr) - tidak apa-apa; tidak masalah
+没有 (méi yǒu) - tidak memiliki; tidak ada
+妹妹｜妹 (mèi mei ｜ mèi) - adik perempuan
+门 (mén) - pintu
+门口 (mén kǒu) - pintu masuk
+门票 (mén piào) - tiket
+们 (péng yǒu men) - penanda jamak untuk kata ganti dan beberapa kata benda hidup (teman-teman)
+米饭 (mǐfàn) - nasi putih
+面包 (miànbāo) - roti
+面条儿 (miàn tiáor) - mie
+名字 (míngzi) - nama
+明白 (míngbai) - mengerti; paham
+明年 (míng nián) - tahun depan
+明天 (míngtiān) - besok
+拿 (ná) - mengambil
+哪 (nǎ) - mana
+哪里 (nǎ lǐ) - di mana
+哪儿 (nǎr) - di mana
+哪些 (nǎ xiē) - yang mana
+那 (nà) - itu
+那边 (nà biān) - di sana
+那里 (nà lǐ) - di sana
+那儿 (nàr) - di sana
+那些 (nà xiē) - itu (jamak)
+奶 (nǎi) - susu
+奶奶 (nǎinai) - nenek
+男 (nán) - pria
+男孩儿 (nán háir) - anak laki-laki
+男朋友 (nán péng yǒu) - pacar laki-laki
+男人 (nán rén) - pria
+男生 (nán shēng) - anak laki-laki
+南 (nán) - selatan
+南边 (nán biān) - selatan; sisi selatan
+难 (nán) - sulit
+呢 (ne) - kata bantu
+能 (néng) - bisa
+你 (nǐ) - kamu
+你们 (nǐ men) - kalian
+年 (nián) - tahun
+您 (nín) - Anda
+牛奶 (niúnǎi) - susu
+女 (nǚ) - wanita
+女儿 (nǚ'ér) - anak perempuan
+女孩儿 (nǚ háir) - gadis
+女朋友 (nǚ péng yǒu) - pacar perempuan
+女人 (nǚ rén) - wanita
+女生 (nǚ shēng) - anak perempuan
+旁边 (pángbiān) - samping; di sisi
+跑 (pǎo) - berlari
+朋友 (péngyou) - teman
+票 (piào) - tiket
+七 (qī) - tujuh
+起 (qǐ) - bangun; mulai; naik
+起床 (qǐchuáng) - bangun tidur
+起来 (qǐlái) - bangun
+汽车 (qì chē) - mobil
+前 (qián) - depan
+前边 (qián biān) - di depan
+前天 (qián tiān) - kemarin lusa
+钱 (qián) - uang
+钱包 (qián bāo) - dompet
+请 (qǐng) - silakan; tolong
+请假 (qǐngjià) - izin
+请进 (qǐng jìn) - silakan masuk
+请问 (qǐng wèn) - permisi; boleh tanya
+请坐 (qǐng zuò) - silakan duduk
+球 (qiú) - bola
+去 (qù) - pergi
+去年 (qùnián) - tahun lalu
+热 (rè) - panas
+人 (rén) - orang
+认识 (rènshi) - mengenal
+认真 (rènzhēn) - sungguh-sungguh
+日 (rì) - hari
+日期 (rìqī) - tanggal
+肉 (ròu) - daging
+三 (sān) - tiga
+山 (shān) - gunung
+商场 (shāng chǎng) - pusat perbelanjaan; mal
+商店 (shāngdiàn) - toko
+上 (shàng) - atas
+上班 (shàngbān) - pergi bekerja
+上边 (shàng biān) - di atas
+上车 (shàng chē) - naik (ke dalam kendaraan)
+上次 (shàng cì) - kali yang lalu
+上课 (shàng kè) - mengikuti pelajaran; memiliki kelas
+上网 (shàngwǎng) - berselancar di internet
+上午 (shàngwǔ) - pagi
+上学 (shàng xué) - pergi ke sekolah
+少 (shǎo) - sedikit
+谁 (shéi) - siapa
+身上 (shēn shàng) - tubuh; di tubuh seseorang
+身体 (shēntǐ) - tubuh
+什么 (shénme) - apa
+生病 (shēngbìng) - sakit
+生气 (shēngqì) - marah
+生日 (shēngrì) - ulang tahun
+十 (shí) - sepuluh
+时候 (shíhou) - waktu
+时间 (shíjiān) - waktu
+事 (shì) - hal; urusan
+试 (shì) - mencoba
+是 (shì) - ya
+是不是 (shì bú shì) - bukan begitu?
+手 (shǒu) - tangan
+手机 (shǒujī) - telepon genggam; ponsel
+书 (shū) - buku
+书包 (shū bāo) - tas sekolah
+书店 (shū diàn) - toko buku
+树 (shù) - pohon
+水 (shuǐ) - air
+水果 (shuǐguǒ) - buah
+睡 (shuì) - tidur
+睡觉 (shuìjiào) - tidur
+说 (shuō) - berbicara
+说话 (shuōhuà) - berbicara
+四 (sì) - empat
+送 (sòng) - memberi; mengantarkan
+岁 (suì) - tahun usia
+他 (tā) - dia (laki-laki)
+他们 (tā men) - mereka (laki-laki)
+她 (tā) - dia (perempuan)
+她们 (tā men) - mereka (perempuan)
+太 (tài) - terlalu
+天 (tiān) - hari; langit
+天气 (tiānqì) - cuaca
+听 (tīng) - mendengar
+听到 (tīng dào) - mendengar
+听见 (tīng jiàn) - mendengar
+听写 (tīng xiě) - mendikte; menuliskan dari pendengaran
+同学 (tóngxué) - teman sekolah; teman sekelas
+图书馆 (túshūguǎn) - perpustakaan
+外 (wài) - luar; di luar negeri
+外边 (wài biān) - di luar; sisi luar
+外国 (wài guó) - negara asing
+外语 (wài yǔ) - bahasa asing
+玩儿 (wánr) - bermain
+晚 (wǎn) - malam
+晚饭 (wǎn fàn) - makan malam
+晚上 (wǎnshang) - malam
+网上 (wǎng shàng) - online; di internet
+网友 (wǎng yǒu) - teman internet; teman daring
+忘 (wàng) - lupa
+忘记 (wàngjì) - lupa
+问 (wèn) - bertanya
+我 (wǒ) - saya; aku
+我们 (wǒmen) - kita; kami
+五 (wǔ) - lima
+午饭 (wǔ fàn) - makan siang
+西 (xī) - barat
+西边 (xī biān) - barat; sisi barat
+洗 (xǐ) - mencuci
+洗手间 (xǐshǒujiān) - kamar mandi
+喜欢 (xǐhuan) - menyukai
+下 (xià) - di bawah; turun
+下班 (xià bān) - pulang kerja
+下边 (xià biān) - di bawah; di bagian bawah
+下车 (xià chē) - turun (dari kendaraan)
+下次 (xià cì) - kali berikutnya
+下课 (xià kè) - selesai pelajaran
+下午 (xiàwǔ) - siang; sore
+下雨 (xiàyǔ) - hujan
+先 (xiān) - terlebih dahulu; dahulu
+先生 (xiānsheng) - tuan; pak
+现在 (xiànzài) - sekarang
+想 (xiǎng) - berpikir; ingin
+小 (xiǎo) - kecil
+小孩儿 (xiǎo háir) - anak; anak kecil
+小姐 (xiǎojiě) - nona; nyonya
+做饭 (zuò fàn) - memasak
+座位 (zuòwèi) - kursi; tempat duduk
+作业 (zuòyè) - tugas; pekerjaan rumah
+作家 (zuòjiā) - penulis
+作文 (zuòwén) - karangan; esai
+昨晚 (zuówǎn) - malam kemarin
+坐车 (zuò chē) - naik kendaraan
+做梦 (zuò mèng) - bermimpi
+昨天晚上 (zuótiān wǎnshàng) - tadi malam
+作用 (zuòyòng) - fungsi; peran
+祝贺 (zhùhè) - mengucapkan selamat
+著名 (zhùmíng) - terkenal
+注意 (zhùyì) - perhatikan; perhatian
+站 (zhàn) - stasiun
+照顾 (zhàogù) - menjaga; merawat
+照片 (zhàopiàn) - foto
+找 (zhǎo) - mencari
+找工作 (zhǎo gōngzuò) - mencari pekerjaan
+准时 (zhǔnshí) - tepat waktu
+准确 (zhǔnquè) - akurat; tepat
+注意 (zhùyì) - perhatikan; perhatian
+字母 (zìmǔ) - huruf
+自己 (zìjǐ) - diri sendiri
+自行车 (zìxíngchē) - sepeda
+自由 (zìyóu) - kebebasan
+总是 (zǒngshì) - selalu
+总经理 (zǒng jīnglǐ) - direktur utama
+组织 (zǔzhī) - organisasi; mengorganisir
+最后 (zuìhòu) - akhirnya; pada akhirnya
+最近 (zuìjìn) - baru-baru ini; akhir-akhir ini
+最喜欢 (zuì xǐhuān) - paling suka
+昨天 (zuótiān) - kemarin
+做饭 (zuò fàn) - memasak
+做生意 (zuò shēngyì) - berbisnis
+坐飞机 (zuò fēijī) - naik pesawat
+做法 (zuòfǎ) - cara; metode
+昨晚 (zuówǎn) - malam kemarin
+作品 (zuòpǐn) - karya; karya seni
+作为 (zuòwéi) - sebagai; sebagai sebuah
+坐下 (zuò xià) - duduk
+左右 (zuǒyòu) - sekitar; kira-kira
+嘴 (zuǐ) - mulut
+醉 (zuì) - mabuk
+尊重 (zūnzhòng) - menghormati; penghormatan
+最好 (zuì hǎo) - yang terbaik
+祖父母 (zǔfùmǔ) - kakek-nenek
+最大 (zuìdà) - terbesar
+最小 (zuìxiǎo) - terkecil
+好 (hǎo) - bagus; baik
+好吃 (hǎo chī) - enak
